@@ -61,3 +61,8 @@ a{ color:var(--accent); }
 .work-card p{
   color: var(--muted); 
 }
+
+.work-meta{
+  color: var(--muted);
+  margin-top: 10px;
+}
