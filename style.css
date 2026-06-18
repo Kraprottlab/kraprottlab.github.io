@@ -42,6 +42,7 @@ repeat(auto-fit, minmax(240px, 1fr));
 }
 
 .work-card{
+  max-width: 520px;
 
 background:rgba(255,255,255,.04);
   border:1px solid var(--border);
