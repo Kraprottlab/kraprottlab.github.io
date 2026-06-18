@@ -42,8 +42,7 @@ repeat(auto-fit, minmax(240px, 1fr));
 }
 
 .work-card{
-
-background:rgba(255,255,255,.04);
+  background:rgba(255,255,255,.04);
   border:1px solid var(--border);
   border-radius:var(--radius);
   padding:16px;
