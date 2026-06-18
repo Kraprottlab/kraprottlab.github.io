@@ -58,4 +58,6 @@ a{ color:var(--accent); }
   max-width: 520px;
 }
 
-.work-card p{ color: var(--muted); }
+.work-card p{
+  color: var(--muted); 
+}
